@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-11-21T20:17:19+03:00</generation-date>
+  <offer internal-id="682106589">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/682106589</url>
+    <last-update-date>2026-11-21T20:13:43+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Протозанова, 21</address>
+      <latitude>49.95764087625</latitude>
+      <longitude>82.629585991538</longitude>
+    </location>
+    <price>
+      <value>24500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1967 г.п., состояние: свежий ремонт, потолки 2.5м., санузел совмещенный, телефон: отдельный, Квартира очень тёплая, ремонт свежий, район тихий, двор большой. Соседи хорошие. В пешей доступности набережная Ульбы, центр. рынок, ЦДК, автобусные и трамвайные остановки</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d602ddc-7a2f-4707-bfdf-cf79d3dd1ac1/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d602ddc-7a2f-4707-bfdf-cf79d3dd1ac1/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d602ddc-7a2f-4707-bfdf-cf79d3dd1ac1/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d602ddc-7a2f-4707-bfdf-cf79d3dd1ac1/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d602ddc-7a2f-4707-bfdf-cf79d3dd1ac1/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/7d/7d602ddc-7a2f-4707-bfdf-cf79d3dd1ac1/11-full.jpg</image>
+    <area>
+      <value>60</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1967</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>панельный</building-type>
+  </offer>
+  <offer internal-id="688709965">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/688709965</url>
+    <last-update-date>2026-11-21T20:14:55+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Антона Чехова, 49</address>
+      <latitude>49.950684</latitude>
+      <longitude>82.621659</longitude>
+    </location>
+    <price>
+      <value>19500000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 1963 г.п., состояние: свежий ремонт, потолки 2.5м., санузел раздельный, интернет оптика, меблирована полностью, Квартира находится в ЦЕНТРЕ города. Район Площади Республики, ЦУМа. Преимущества: 1) Вся инфраструктура в шаговой доступности. 2) Рядом автобусная и трамвайная остановки. 3…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/a8/a8bbd9de-1843-4255-841e-2b6a93ff3fa5/18-full.jpg</image>
+    <area>
+      <value>55</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1963</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
+  </offer>
+  <offer internal-id="1012592400">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1012592400</url>
+    <last-update-date>2026-11-21T20:16:07+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Антона Чехова, 5</address>
+      <latitude>49.943455</latitude>
+      <longitude>82.615263</longitude>
+    </location>
+    <price>
+      <value>12400000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>кирпичный дом, 1980 г.п., состояние: свежий ремонт, потолки 2.7м., санузел совмещенный, интернет оптика, без мебели, Продаётся уютная квартира в отличном состоянии! Предлагаем вашему вниманию светлую, ухоженную квартиру в хорошем районе города! Отличный вариант для тех, кто ценит комфорт, у…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/26-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/27-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/28-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/1f/1f950cf5-9ff5-4f5b-a387-744e5786952f/24-full.jpg</image>
+    <area>
+      <value>29.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <ceiling-height>2.7</ceiling-height>
+    <built-year>1980</built-year>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>кирпичный</building-type>
+  </offer>
+  <offer internal-id="1015523453">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1015523453</url>
+    <last-update-date>2026-11-21T20:17:19+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Казыбек би, 30</address>
+      <latitude>49.898906</latitude>
+      <longitude>82.609702</longitude>
+    </location>
+    <price>
+      <value>23000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1988 г.п., потолки 2.5м., санузел раздельный, меблирована частично, 🏡 ПРОДАМ ИЛИ ОБМЕНЯЮ 2-КОМНАТНУЮ КВАРТИРУ — 59, 8 м² 🔄 Рассмотрю обмен на 2-комнатную квартиру на 1 этаже с доплатой/без доплаты — по договорённости. Продаётся светлая, тёплая 2-комнатная квартира улучшенной планир…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/e5/e569f3d3-ef49-4369-913a-c86926064844/12-full.jpg</image>
+    <area>
+      <value>59.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1988</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>панельный</building-type>
+  </offer>
+</realty-feed>
