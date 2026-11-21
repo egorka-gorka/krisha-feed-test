@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-21T20:31:47+03:00</generation-date>
+  <generation-date>2026-11-21T20:48:32+03:00</generation-date>
   <offer internal-id="682106589">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -88,6 +88,65 @@
     <bathroom-unit>раздельный</bathroom-unit>
     <building-type>кирпичный</building-type>
   </offer>
+  <offer internal-id="1005687691">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1005687691</url>
+    <last-update-date>2026-11-21T20:47:20+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Увалиева, 11</address>
+      <latitude>49.887132</latitude>
+      <longitude>82.615955</longitude>
+    </location>
+    <price>
+      <value>79000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>жил. комплекс AL-FARABI, кирпичный дом, 2022 г.п., состояние: свежий ремонт, потолки 3м., санузел раздельный, интернет проводной, меблирована полностью, Продаётся 3-комнатная квартира на КШТ в ЖК «Аль-Фараби» 🏡 📍 Удобное расположение в современном жилом комплексе 📐 Площадь — 105 м² 🛋 Квартира…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/1-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/4-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/5-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/6-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/13-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/14-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/15-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/16-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/17-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/18-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/19-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/20-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/21-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/22-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/23-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/24-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/25-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/da/dab2cfb6-10d2-46b7-a333-830e979a7177/26-full.jpg</image>
+    <area>
+      <value>105</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <ceiling-height>3</ceiling-height>
+    <built-year>2022</built-year>
+    <building-name>AL-FARABI</building-name>
+    <floor-covering>ламинат</floor-covering>
+    <bathroom-unit>раздельный</bathroom-unit>
+    <building-type>кирпичный</building-type>
+  </offer>
   <offer internal-id="1012592400">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -131,6 +190,47 @@
     <floor-covering>ламинат</floor-covering>
     <bathroom-unit>совмещенный</bathroom-unit>
     <building-type>кирпичный</building-type>
+  </offer>
+  <offer internal-id="1013987730">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://krisha.kz/a/show/1013987730</url>
+    <last-update-date>2026-11-21T20:48:32+03:00</last-update-date>
+    <location>
+      <country>Казахстан</country>
+      <region>Восточно-Казахстанская область</region>
+      <locality-name>Усть-Каменогорск</locality-name>
+      <address>Канипа Битибаева, 10</address>
+      <latitude>49.964222</latitude>
+      <longitude>82.595922</longitude>
+    </location>
+    <price>
+      <value>22000000</value>
+      <currency>KZT</currency>
+    </price>
+    <description>панельный дом, 1969 г.п., потолки 2.5м., санузел совмещенный, телефон: есть возможность подключения, интернет ADSL, меблирована частично, Квартира просторная, планировка отличается от привычных квартир в панельных домах: просторный коридор, светлая с хорошей аурой. На окнах пластиковые окна и…</description>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/9-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/2-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/3-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/7-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/8-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/10-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/11-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/12-full.jpg</image>
+    <image>https://alaps-photos-kr.kcdn.kz/webp/d2/d2d7f745-c4d6-456b-b04d-f0fe04bd7f53/13-full.jpg</image>
+    <area>
+      <value>58</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>5</floor>
+    <floors-total>5</floors-total>
+    <ceiling-height>2.5</ceiling-height>
+    <built-year>1969</built-year>
+    <floor-covering>линолеум</floor-covering>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <building-type>панельный</building-type>
   </offer>
   <offer internal-id="1014699714">
     <type>продажа</type>
